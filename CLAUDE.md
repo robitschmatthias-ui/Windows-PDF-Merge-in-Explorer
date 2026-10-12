@@ -11,7 +11,7 @@ Made by the repository owner on 2026-10-12:
 - **"Convert to PDF" never overwrites**: existing PDF → `Name (2).pdf`, `Name (3).pdf` …, listed in the final message.
 - **A4 + portrait/landscape**: rotate mismatched pages by 90° first, then fit to A4.
 - **Advanced "Fit to A4" for images**: images reaching at least 200 DPI on A4 fill the page; smaller ones stay at original size, centered (same rule as the Linux version).
-- **Commit author**: GitHub noreply address `272321947+robitschmatthias-ui@users.noreply.github.com`, no co-author lines.
+- **Commit author**: `Matthias Robitsch <robitsch.matthias@gmail.com>` (set per repository with `git config`), no co-author lines. History was rewritten to this address on 2026-10-12.
 
 ## Technical notes
 
