@@ -1,0 +1,4 @@
+pypdf>=6.20.0
+img2pdf>=0.6.3
+pillow>=12.3.0
+pywin32>=312
